@@ -18,5 +18,11 @@
             "<color=yellow>admin_eac_bypass</color>",
             "<color=#5600a5>Team Iya</color>"
         ]
+    },
+     {
+        "displayName": "tupper",
+        "tags": [
+            "<color=blue>Rusk</color> > <color=brown>Runa</color>",
+        ]
     }
 ]
